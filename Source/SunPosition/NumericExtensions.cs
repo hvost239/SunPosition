@@ -13,5 +13,7 @@ namespace SunPosition
         {
             return (180 / Math.PI ) * val;
         }
+
+        
     }
 }

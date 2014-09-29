@@ -28,7 +28,7 @@ namespace SunPosition.Test
             double height;
             double azimuth;
             SunPosition.GetSunPosition(0, 0, new DateTime(2014, 6, 22, 23, 59, 0, 0), out height, out azimuth);
-
+                
             Assert.AreEqual(height, -66.562, Delta);
             Assert.AreEqual(azimuth, 358.215, Delta);
         }
