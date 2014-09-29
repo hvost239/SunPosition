@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="DateTimeExtensionTest.cs" />
     <Compile Include="GreenweechTest.cs" />
+    <Compile Include="SouthernHemisphereTest.cs" />
     <Compile Include="SPBTest.cs" />
     <Compile Include="SunDeclinationTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

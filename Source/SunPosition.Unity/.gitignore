@@ -1,0 +1,11 @@
+*.unityproj
+*.csproj
+*.suo
+*.sln
+*.pidb
+Library
+obj
+Temp
+_ReSharper**
+
+Build/
